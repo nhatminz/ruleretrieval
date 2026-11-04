@@ -1,0 +1,10 @@
+agent:
+  max_search_calls: 4
+  max_total_tool_calls: 10
+  max_search_results: 5
+  max_final_rules_per_issue: 10
+  max_turns: 14
+  allow_abstain: true
+  external_web_access: false
+  temporal_mode: uncertainty_aware
+  backend: bm25

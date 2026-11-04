@@ -1,0 +1,14 @@
+judgments:
+  repo_id: tmquan/cbba-toaan-gov-vn
+  revision: 8ace3afc9c974afd51e12dccbefd4b3ba54ce1ec
+  config: documents
+  filename: documents-00000-of-00016.parquet
+statutes:
+  repo_id: tmquan/thuvienphapluat-vn-vbpl
+  revision: 705ade585384108ded5fc30f40a06fe110bdff22
+  config: documents
+  filename: documents-00000-of-00096.parquet
+download_retries: 4
+builder:
+  citation_role_mode: source_evidence
+  # optional llm_corroborated: source evidence is still mandatory

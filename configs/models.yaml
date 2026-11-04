@@ -1,0 +1,8 @@
+base_url: http://127.0.0.1:8000/v1
+model_id: qwen-local
+timeout: 180
+temperature: 0.0
+max_tokens: 1800
+retries: 2
+native_tools: false
+max_context_chars: 42000

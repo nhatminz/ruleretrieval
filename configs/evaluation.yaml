@@ -1,0 +1,4 @@
+ks: [1, 3, 5, 10]
+label_quality: SILVER
+main_role: COURT_APPLIED
+supported_only_requires: EXACT_VERSION_MATCH

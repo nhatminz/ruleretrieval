@@ -1,0 +1,3 @@
+url: sqlite:///data/database/statutes.sqlite
+retrieval_backend: bm25
+batch_size: 64
